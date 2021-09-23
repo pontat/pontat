@@ -1,8 +1,9 @@
-## Hi there :wave:
-
 <p align="left"> 
   <a href="https://github.com/pontat/pontat/">
     <img src="https://komarev.com/ghpvc/?username=pontat" alt="pontat" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCILM0gjgyXhAatb0sYbOXTA">
+    <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCILM0gjgyXhAatb0sYbOXTA?style=flat" />
   </a>
   <a href="http://twitter.com/ponta_dev">
     <img height="20" src="https://img.shields.io/twitter/follow/ponta_dev?label=Twitter&logo=twitter&style=flat" />
@@ -16,9 +17,7 @@
   <a href="https://zenn.dev/ponta">
     <img height="20" src="https://zenn.badge.nikaera.com/s/ponta/followers" />
   </a>
-  <a href="https://zenn.dev/ponta">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/ponta/articles" />
-  </a>
+
 </p>
 
 <p align="left"> 
