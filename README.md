@@ -1,4 +1,4 @@
-## Hi there :wave
+## Hi there :wave:
 
 <p align="left"> 
   <a href="https://github.com/pontat/pontat/">
