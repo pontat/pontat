@@ -1,4 +1,7 @@
-<p align="left"> 
+<p align="left">
+  <a href="https://github.com/pontat/pontat/">
+    <img src="https://komarev.com/ghpvc/?username=pontat" alt="pontat" />
+  </a>
   <a href="https://www.youtube.com/channel/UCILM0gjgyXhAatb0sYbOXTA">
     <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCILM0gjgyXhAatb0sYbOXTA?style=flat" />
   </a>
