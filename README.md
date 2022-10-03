@@ -5,18 +5,14 @@
   <a href="https://www.youtube.com/channel/UCILM0gjgyXhAatb0sYbOXTA">
     <img height="20" src="https://img.shields.io/youtube/channel/subscribers/UCILM0gjgyXhAatb0sYbOXTA?style=flat" />
   </a>
-  <a href="http://twitter.com/ponta_dev">
-    <img height="20" src="https://img.shields.io/twitter/follow/ponta_dev?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://zenn.dev/ponta">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/ponta/likes" />
-  </a>
-  <a href="https://zenn.dev/ponta">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/ponta/followers" />
-  </a>
-<!--   <a href="https://github.com/pontat">
+  <a href="https://zenn.dev/ponta"><img src="https://badgen.org/img/zenn/ponta/likes?style=flat" alt="Likes" /></a>
+  <a href="https://zenn.dev/ponta"><img src="https://badgen.org/img/zenn/ponta/followers?style=flat" alt="Followers" /></a>
+  <a href="https://zenn.dev/ponta"><img src="https://badgen.org/img/zenn/ponta/articles?style=flat" alt="Articles" /></a>
+  <a href="https://zenn.dev/ponta?tab=books"><img src="https://badgen.org/img/zenn/ponta/books?style=flat" alt="Books" /></a>
+  <a href="https://zenn.dev/ponta?tab=scraps"><img src="https://badgen.org/img/zenn/ponta/scraps?style=flat" alt="Scraps" /></a>
+  <a href="https://github.com/pontat">
     <img height="20" src="https://img.shields.io/github/followers/pontat?label=followers&logo=github&style=flat" />
-  </a> -->
+  </a>
 </p>
 
 <p align="left"> 
